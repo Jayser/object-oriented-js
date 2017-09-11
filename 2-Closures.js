@@ -1,6 +1,12 @@
 function aHero () {
 	return "Gal";
 }
+function aFoil () {
+	return "Cow";
+}
+function aDeed () {
+	return "Taps";
+}
 
 var sagas = [];
 var hero = aHero();
