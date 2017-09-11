@@ -1,3 +1,7 @@
+function aHero () {
+	return "Gal";
+}
+
 var sagas = [];
 var hero = aHero();
 var newSaga = function(){
